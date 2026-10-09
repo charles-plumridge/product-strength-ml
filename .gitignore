@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Data files
+data/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# Local environment files
+.env
+.env.*
+*.pem
+*.key
