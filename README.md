@@ -1,12 +1,12 @@
 # Product Strength Prediction
 
+[View the modelling notebook](notebooks/modelling.ipynb)
+
 Machine-learning analysis of manufacturing, quality-control, and maintenance data to predict cured product strength and identify factors associated with strength variation, supporting both earlier estimation and future process improvement.
 
 This project uses anonymised R&D and manufacturing data from Concrete Canvas Ltd. Data, feature names, and commercially sensitive process details have been removed or anonymised.
 
 This is a personal portfolio project and is not an official publication of Concrete Canvas Ltd.
-
-[View the modelling notebook](notebooks/modelling.ipynb)
 
 ## Project Overview
 
